@@ -6,8 +6,7 @@ This is a light work out option about the qigong practice.
 
 Validaton Teast.
 I have not noticed any bugs.
-
-
+But i have not been able to get the image to work.
 
 
 
