@@ -1,0 +1,22 @@
+body {
+background-color:rgb(3, 255, 129);
+}
+footer {
+  background-color: rgb(13, 207, 143, 0.712);
+}
+#information {
+  background-color: white;
+}
+#offer {
+  background-color: white;
+}
+#contact {
+  background-color: rgb(206, 168, 168);
+}
+#top {
+  background-color: rgba(13, 207, 143, 0.712);
+}
+img {
+  width: 100%;
+  height: 100%;
+}
