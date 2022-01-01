@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Love your body</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<nav id="top">
+		<a href="#offer">Offer</a>
+		<a href="#contacr">Contact</a>
+		<a href="#information">Info about us</a>
+	</nav>
+	<h1><b>Qigong Club!</b></h1>
+    <script src="script.js"></script>
+    
+    <div id="information">
+      <h3>What is Qigong</h3>
+    <p>
+      To be one with your body is to <b>live in harmony.</b> To find it some people turn to qigong. Qigong is easy to learn and enjoyable to do. The aim of Qigong is to promote the movement of Qi (energy) in the body.  A key point in Qigong practice is relaxation and deep breathing, both of which are prerequisites to allow Qi to flow. Some Qigong movements are very gentle, others more vigorous.
+      <span></span>
+    </p>
+    <p>
+      The origins of Qigong date back thousands of years, probably to ceremonial dances carried out by tribes in various parts of China. It is believed that specific rhythms and movements of the dances were developed in order to strengthen the dancers, both physically and mentally and toward off disease. Over the millennia, Qigong has been practised by intellectuals, monks, warriors, and ordinary people mainly for three different purposes: martial, medical, or meditative.
+    </p>
+    </div>
+    <img src="https://www.shutterstock.com/sv/image-photo/man-black-shirt-sitting-doing-qigong-1570528768" alt="qigong">
+    
+   <div id="offer"> 
+    <h2>What we offer.</h2>
+      
+      <p>
+        <b>Our love for wellness is what drives us and we love to help others.</b>
+      </p>
+    <ul>
+      <li>Become Healthy.</li>
+      <li>Learn to detox your body.</li>
+      <li>Be alert and happier.</li>
+      <li>For all ages.</li>
+    </ul>
+    </div>
+    <div id="contact">
+    <form class="Contact">
+            <fieldset><legend>User Details</legend>
+            <label for="fname">First Name:</label>
+            <input type="text" name="fname" id="fname">
+            <label for="lname">Last Name:</label>
+            <input type="text" name="lname" id="lname">
+            </fieldset>
+            <fieldset><legend>Contact Information</legend>
+            <label for="email">Email Address:</label>
+            <input name="email" id="email" type="email"  required>
+            </fieldset>
+            <input type="submit" value="Send Request">
+        </form>
+        </div>
+        <footer>
+          <p>Author: Tobias Hamn</p>
+          <nav>
+          <a href="#offer">Offer</a>
+          <a href="#contacr">Contact</a>
+          <a href="#information">Info about us</a>
+          </nav>
+        </footer>
+  
+   
+    
+  </body>
+</html>
